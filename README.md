@@ -25,19 +25,5 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/brunogbarbosa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-###
 
 <br clear="both">
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brunogbarbosa&bg_color=16063c&color=ffffff&line=ffffff&point=0a0944&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-###
