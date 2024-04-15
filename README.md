@@ -1,5 +1,6 @@
-<h2 align="left">Hello 👋! My name is Bruno and I'm a Developer Front - End</h2>
+<h2 align="left">Hello 👋! My name is Bruno</h2>
 
+    And I'm a Front-End Developer
 ###
 
 <div align="center">
