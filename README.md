@@ -1,6 +1,6 @@
 <h2 align="left">Hello 👋! My name is Bruno</h2>
 
-    And I'm a Full - Stack Developer
+    And I'm a Back - end Developer
 ###
 
 <div align="center">
